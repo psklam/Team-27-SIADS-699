@@ -7,3 +7,6 @@ Using pre-release movie features such as budget, genre, cast as well as many eng
 We also performed a clustering analysis to create actor groups which define their success, activity, and prominence in the film industry. Each cluster is defined both qualitatively and quantitatively, both of which are used in our temporal synthesis of the movie industry.
 
 Our goal is to both provide a powerful tool for studios and production companies to use to help evaluate if their decision to book a specific movie is a good one as well as educate our audience on the ever-changing trends in the movie industry and how those changes have influenced overall movie financial success.
+
+Authors: Peter Sklamberg, Evgeny Kuzmin, Benjamin Wilson
+Course: University of Michigan - SIADS 699 (Capstone)
