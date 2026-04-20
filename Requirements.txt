@@ -6,7 +6,7 @@ Seaborn
 Matplotlib
 Sklearn
 
-Libraries for Exploratory Analysis
+Libraries for Exploratory Analysis:
 
 Pandas
 Numpy
