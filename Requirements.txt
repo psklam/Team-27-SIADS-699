@@ -1,0 +1,14 @@
+Libraries for Supervised Learning Modelling:
+
+Pandas
+NumPy
+Seaborn
+Matplotlib
+Sklearn
+
+Libraries for Exploratory Analysis
+
+Pandas
+Numpy
+Matplotlib
+Sklearn
