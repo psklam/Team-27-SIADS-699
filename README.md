@@ -8,5 +8,7 @@ We also performed a clustering analysis to create actor groups which define thei
 
 Our goal is to both provide a powerful tool for studios and production companies to use to help evaluate if their decision to book a specific movie is a good one as well as educate our audience on the ever-changing trends in the movie industry and how those changes have influenced overall movie financial success.
 
+Both the Modelling and Exploratory Data Analysis notebooks can be run top to bottom. The Exploratory Data Analysis notebook contains all of our initial exploration of the data we eventually used to create our model including Actor, Director, Genre, Budget, and Clustering analyses. The insights we gained from this exploration was used as context in our feature engineering and model architecture decisions. The Modelling notebook contains all of our feature engineering, creation and testing of our models on the validation set, and final evaluation on the held-out test set.
+
 Authors: Peter Sklamberg, Evgeny Kuzmin, Benjamin Wilson
 Course: University of Michigan - SIADS 699 (Capstone)
